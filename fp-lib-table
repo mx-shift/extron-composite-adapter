@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "extron-composite-adapter")(type "KiCad")(uri "${KIPRJMOD}/extron-composite-adapter.pretty")(options "")(descr ""))
+)
